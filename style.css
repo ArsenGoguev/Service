@@ -376,6 +376,7 @@ body {
 		margin-top: 19px;
 		margin-right: 32px;
 		margin-left: 34px;
+		justify-content: space-between;
 	}
 
 	.slide-content {
