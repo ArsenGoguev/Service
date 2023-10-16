@@ -361,7 +361,6 @@ body {
 	.slide-menu__slide-list {
 		margin: 0 32px;
 		flex-wrap:	wrap;
-		justify-content: space-between;
 		height: auto;
 		align-items: center;
 		padding-top: 10px;
